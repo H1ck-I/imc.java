@@ -1,19 +1,27 @@
-📏 Calculadora de IMC em Java
+🧮 Calculadora de IMC em Java
 
-Este projeto é uma simples aplicação em Java que calcula o IMC (Índice de Massa Corporal) do usuário com base na altura e no peso informados.
-Após o cálculo, o programa classifica o IMC em categorias, como abaixo do peso, ideal, acima do peso, obesidade, etc.
+Este projeto é uma aplicação simples em Java que calcula o IMC (Índice de Massa Corporal) do usuário com base na altura e no peso informados. Após o cálculo, o programa classifica o IMC em categorias, como abaixo do peso, ideal, acima do peso, obesidade, etc.
 
 🚀 Funcionalidades
 
-Solicita altura do usuário.
+Solicita a altura do usuário.
 
-Solicita peso do usuário.
+Solicita o peso do usuário.
 
 Calcula o IMC usando a fórmula:
 
-$$
-IMC = \frac{\text{Peso (kg)}}{\text{Altura (m)}^2}
-$$
+📌 Fórmula do IMC
+𝐼
+𝑀
+𝐶
+=
+Peso (kg)
+Altura (m)
+2
+IMC=
+Altura (m)
+2
+Peso (kg)
 	​
 
 
@@ -39,8 +47,6 @@ Recebe os dados do usuário com Scanner.
 
 Calcula o IMC.
 
-Usa uma cadeia de if / else if para determinar a categoria.
+Usa uma cadeia de if / else para determinar a categoria.
 
-Usa um switch para exibir a mensagem final correspondente.
-
-Finaliza fechando o scanner.
+Exibe a mensagem correspondente.
