@@ -11,10 +11,8 @@ Solicita o peso do usuário.
 Calcula o IMC usando a fórmula:
 
 📌 Fórmula do IMC
+
 IMC = peso (kg) / (altura (m) × altura (m))
-
-	​
-
 
 Identifica a categoria do IMC:
 
