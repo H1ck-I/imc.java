@@ -11,25 +11,9 @@ Solicita peso do usuário.
 
 Calcula o IMC usando a fórmula:
 
-𝐼
-𝑀
-𝐶
-=
-𝑝
-𝑒
-𝑠
-𝑜
-𝑎
-𝑙
-𝑡
-𝑢
-𝑟
-𝑎
-2
-IMC=
-altura
-2
-peso
+$$
+IMC = \frac{\text{Peso (kg)}}{\text{Altura (m)}^2}
+$$
 	​
 
 
